@@ -152,3 +152,10 @@ main .dashboard .graphs section img {
     width: 100%;
     height: auto;
 }
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
